@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CheckKbdMouCallback", "CheckKbdMouCallback\CheckKbdMouCallback.vcxproj", "{577B1FAE-C5B9-4980-99D4-1AC934632032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Debug|ARM64.Build.0 = Debug|ARM64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Debug|x64.ActiveCfg = Debug|x64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Debug|x64.Build.0 = Debug|x64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Debug|x64.Deploy.0 = Debug|x64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Release|ARM64.ActiveCfg = Release|ARM64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Release|ARM64.Build.0 = Release|ARM64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Release|ARM64.Deploy.0 = Release|ARM64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Release|x64.ActiveCfg = Release|x64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Release|x64.Build.0 = Release|x64
+		{577B1FAE-C5B9-4980-99D4-1AC934632032}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C94BD91-0A0E-4EE1-A4EA-00AEF3F0B0A8}
+	EndGlobalSection
+EndGlobal

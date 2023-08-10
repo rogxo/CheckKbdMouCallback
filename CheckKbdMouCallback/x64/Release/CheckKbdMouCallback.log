@@ -1,0 +1,8 @@
+﻿  Building 'CheckKbdMouCallback' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Check.cpp
+  CheckKbdMouCallback.vcxproj -> E:\Project\CodeProject\VisualStudio\CheckKbdMouCallback\x64\Release\CheckKbdMouCallback.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Project\CodeProject\VisualStudio\CheckKbdMouCallback\x64\Release\CheckKbdMouCallback.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
